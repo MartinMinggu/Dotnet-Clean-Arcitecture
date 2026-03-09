@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\Domain",
+    "\\src\\Domain\\LibraryHub.Domain",
+    "\\src\\Domain\\LibraryHub.Domain\\Entities",
+    "\\src\\Domain\\LibraryHub.Domain\\Enums"
+  ],
+  "SelectedNode": "\\src\\Domain\\LibraryHub.Domain\\Enums\\BorrowStatus.cs",
+  "PreviewInSolutionExplorer": false
+}

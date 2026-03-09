@@ -1,0 +1,19 @@
+using System;
+using LibraryHub.Domain.Entities;
+using LibraryHub.Domain.Enums;
+
+namespace namespace LibraryHub.Domain.Entities;
+public class BorrowTransaction
+{
+    public int Id { get; set; }
+    public int BookId { get; set; }
+    public Book? Book { get; set; }
+
+    public int MemberId { get; set; }
+    public Member? member { get; set; }
+
+
+    public DateTime BorrowDate { get; set; }
+    public DateTime DueDate { get; set; }
+    public Borr
+}
