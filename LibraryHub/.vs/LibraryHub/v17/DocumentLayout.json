@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "D:\\Pemrograman\\Implementasi IDE\\Dotnet-Clean-Arcitecture\\LibraryHub\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pemrograman\\Implementasi IDE\\Dotnet-Clean-Arcitecture\\LibraryHub\\src\\Domain\\LibraryHub.Domain\\Enums\\BorrowStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Domain\\LibraryHub.Domain\\Enums\\BorrowStatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pemrograman\\Implementasi IDE\\Dotnet-Clean-Arcitecture\\LibraryHub\\src\\Domain\\LibraryHub.Domain\\Entities\\BorrowTransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Domain\\LibraryHub.Domain\\Entities\\BorrowTransaction.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pemrograman\\Implementasi IDE\\Dotnet-Clean-Arcitecture\\LibraryHub\\src\\Domain\\LibraryHub.Domain\\Entities\\Member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Domain\\LibraryHub.Domain\\Entities\\Member.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pemrograman\\Implementasi IDE\\Dotnet-Clean-Arcitecture\\LibraryHub\\src\\Domain\\LibraryHub.Domain\\Entities\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Domain\\LibraryHub.Domain\\Entities\\Book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Pemrograman\\Implementasi IDE\\Dotnet-Clean-Arcitecture\\LibraryHub\\src\\Infrastructure\\LibraryHub.Infrastructure\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:src\\Infrastructure\\LibraryHub.Infrastructure\\Data\\ApplicationDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,53 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "BorrowStatus.cs",
-              "DocumentMoniker": "D:\\Pemrograman\\Implementasi IDE\\Dotnet-Clean-Arcitecture\\LibraryHub\\src\\Domain\\LibraryHub.Domain\\Enums\\BorrowStatus.cs",
-              "RelativeDocumentMoniker": "src\\Domain\\LibraryHub.Domain\\Enums\\BorrowStatus.cs",
-              "ToolTip": "D:\\Pemrograman\\Implementasi IDE\\Dotnet-Clean-Arcitecture\\LibraryHub\\src\\Domain\\LibraryHub.Domain\\Enums\\BorrowStatus.cs",
-              "RelativeToolTip": "src\\Domain\\LibraryHub.Domain\\Enums\\BorrowStatus.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAALAAAAAAAAAA==",
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Pemrograman\\Implementasi IDE\\Dotnet-Clean-Arcitecture\\LibraryHub\\src\\Infrastructure\\LibraryHub.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "src\\Infrastructure\\LibraryHub.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Pemrograman\\Implementasi IDE\\Dotnet-Clean-Arcitecture\\LibraryHub\\src\\Infrastructure\\LibraryHub.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "src\\Infrastructure\\LibraryHub.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T08:03:46.195Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "BorrowTransaction.cs",
-              "DocumentMoniker": "D:\\Pemrograman\\Implementasi IDE\\Dotnet-Clean-Arcitecture\\LibraryHub\\src\\Domain\\LibraryHub.Domain\\Entities\\BorrowTransaction.cs",
-              "RelativeDocumentMoniker": "src\\Domain\\LibraryHub.Domain\\Entities\\BorrowTransaction.cs",
-              "ToolTip": "D:\\Pemrograman\\Implementasi IDE\\Dotnet-Clean-Arcitecture\\LibraryHub\\src\\Domain\\LibraryHub.Domain\\Entities\\BorrowTransaction.cs*",
-              "RelativeToolTip": "src\\Domain\\LibraryHub.Domain\\Entities\\BorrowTransaction.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T08:00:53.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Book.cs",
-              "DocumentMoniker": "D:\\Pemrograman\\Implementasi IDE\\Dotnet-Clean-Arcitecture\\LibraryHub\\src\\Domain\\LibraryHub.Domain\\Entities\\Book.cs",
-              "RelativeDocumentMoniker": "src\\Domain\\LibraryHub.Domain\\Entities\\Book.cs",
-              "ToolTip": "D:\\Pemrograman\\Implementasi IDE\\Dotnet-Clean-Arcitecture\\LibraryHub\\src\\Domain\\LibraryHub.Domain\\Entities\\Book.cs",
-              "RelativeToolTip": "src\\Domain\\LibraryHub.Domain\\Entities\\Book.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T07:58:48.633Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Member.cs",
-              "DocumentMoniker": "D:\\Pemrograman\\Implementasi IDE\\Dotnet-Clean-Arcitecture\\LibraryHub\\src\\Domain\\LibraryHub.Domain\\Entities\\Member.cs",
-              "RelativeDocumentMoniker": "src\\Domain\\LibraryHub.Domain\\Entities\\Member.cs",
-              "ToolTip": "D:\\Pemrograman\\Implementasi IDE\\Dotnet-Clean-Arcitecture\\LibraryHub\\src\\Domain\\LibraryHub.Domain\\Entities\\Member.cs",
-              "RelativeToolTip": "src\\Domain\\LibraryHub.Domain\\Entities\\Member.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-09T07:58:39.607Z",
+              "WhenOpened": "2026-03-10T08:15:21.71Z",
               "EditorCaption": ""
             }
           ]

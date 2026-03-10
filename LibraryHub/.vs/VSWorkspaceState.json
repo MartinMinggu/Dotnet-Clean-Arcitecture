@@ -2,11 +2,15 @@
   "ExpandedNodes": [
     "",
     "\\src",
-    "\\src\\Domain",
+    "\\src\\Application\\LibraryHub.Application\\DTOs",
+    "\\src\\Application\\LibraryHub.Application\\Interfaces",
+    "\\src\\Application\\LibraryHub.Application\\Services",
     "\\src\\Domain\\LibraryHub.Domain",
     "\\src\\Domain\\LibraryHub.Domain\\Entities",
-    "\\src\\Domain\\LibraryHub.Domain\\Enums"
+    "\\src\\Infrastructure",
+    "\\src\\Infrastructure\\LibraryHub.Infrastructure",
+    "\\src\\Infrastructure\\LibraryHub.Infrastructure\\Data"
   ],
-  "SelectedNode": "\\src\\Domain\\LibraryHub.Domain\\Enums\\BorrowStatus.cs",
+  "SelectedNode": "\\src\\Infrastructure\\LibraryHub.Infrastructure\\Data\\ApplicationDbContext.cs",
   "PreviewInSolutionExplorer": false
 }

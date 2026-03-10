@@ -2,7 +2,7 @@ using System;
 using LibraryHub.Domain.Entities;
 using LibraryHub.Domain.Enums;
 
-namespace namespace LibraryHub.Domain.Entities;
+namespace LibraryHub.Domain.Entities;
 public class BorrowTransaction
 {
     public int Id { get; set; }
@@ -15,5 +15,6 @@ public class BorrowTransaction
 
     public DateTime BorrowDate { get; set; }
     public DateTime DueDate { get; set; }
-    public Borr
+    public BorrowStatus BorrowStatus { get; set; } = BorrowStatus.Pending;
+    public decimal FineAmount { get; set; } = 0m;
 }
